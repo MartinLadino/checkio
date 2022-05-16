@@ -1,5 +1,6 @@
 name = "Martin"
 age = 28
 email = "jmartin.ladino.moreno@gmail.com"
-print(name)
+people = [i for i in range(10)]
+print(people)
 
